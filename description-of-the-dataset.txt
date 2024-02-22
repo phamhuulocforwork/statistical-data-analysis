@@ -2,13 +2,13 @@
 'sex': giới tính
   Giá trị 1: 'Male' (Nam)
   Giá trị 2: 'Female' (Nữ)
-'chest_pain_type': 
-  Giá trị 1: 'Typical angina' (Đau điển hình)
-  Giá trị 2: 'Atypical angina' (Đau không điển hình)
+'chest_pain_type':
+  Giá trị 1: 'Typical angina' (Đau điển hình, là một loại đau thắt ngực mà người bệnh thường mô tả như một cảm giác nặng, nặng, hoặc nghẹt ngực. Đau thường xuất hiện khi người bệnh đang hoạt động hoặc trong tình trạng căng thẳng, Đau điển hình thường do giảm cung cấp máu và oxy đến cơ tim, thường do tắc nghẽn các động mạch cung cấp máu đến cơ tim.)
+  Giá trị 2: 'Atypical angina' (Đau không điển hình, là một loại đau thắt ngực mà người bệnh có thể đau ở vùng ngực hoặc ở các các vùng khác như vai, cánh tay, lưng họng,...Có thể xuất hiện lúc căng thẳng hoặc cả lúc bệnh nhân đang nghỉ ngơi)
   Giá trị 3: 'Non-anginal pain' (Không đau)
   Giá trị 4: 'Asymptomatic' (Không có triệu chứng)
-'resting_blood_pressure': Huyết áp nghỉ mm/Hg (huyết áp của bệnh nhân khi họ đang nghỉ ngơi không tham gia hoạt động nào)
-'cholestoral': mg/dl
+'resting_blood_pressure': Huyết áp nghỉ mmHg (huyết áp của bệnh nhân khi họ đang nghỉ ngơi không tham gia hoạt động nào)
+'cholestoral': Chỉ số đường huyết (mg/dl)
 'fasting_blood_sugar': lượng đường trong máu
   Giá trị 1: 'Lower than 120 mg/ml' (thấp hơn 120 mg/ml)
   Giá trị 2: 'Greater than 120 mg/ml' (cao hơn 120 mg/ml)
